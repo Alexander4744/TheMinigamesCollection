@@ -1,6 +1,6 @@
 # Minigames Collection
 
-This project is a clone of Snake, Space Invaders and Breakout bundeled together.
+This project is a clone of Snake, Space Invaders and Breakout bundled together.
 The files should be kept in the same folder.
 Run main.py to test it out.
 
